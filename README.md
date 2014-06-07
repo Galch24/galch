@@ -18,7 +18,7 @@ Pretty easy stuff:
 1. **Get the Files** - Download or clone the repository into your workspace directory. 
 2. **Install Grunt Requirements** - <code>cd</code> to the theme root and run <code>npm install</code>. This will install all the npm packages that Grunt needs to properly run.
 
-**Notes**: If you have no npm (Node Packaged Modules) go to [npm home page](https://www.npmjs.org/) for setup instructions. Also after installing npm you may need to install [Grunt](http://gruntjs.com/) globally in first place.
+**Notes**: If you have no npm (Node Packaged Modules) on your computer go to [npm home page](https://www.npmjs.org/) for setup instructions. Also after installing npm you may need to install [Grunt](http://gruntjs.com/) globally in first place.
 
 ## Extension
 This project is meant to be a base template for programming adaptive theme on html5/css3. You can take it and build a custom template on it, or use it as a parent theme to your own theme template.
